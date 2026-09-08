@@ -2,7 +2,7 @@
 
 [![HTML5](https://img.shields.io/badge/HTML5-Semântico-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-Multi_Column_Layout-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Portfolio_Project-blue?style=flat-square)](#)
 
 Portal de notícias e comunicação social (**Notícias Cidade**), desenvolvido com arquitetura multi-páginas, diagramação em três colunas simultâneas (navegação lateral, destaques centrais e notícias complementares) e padronização visual jornalística.
 
